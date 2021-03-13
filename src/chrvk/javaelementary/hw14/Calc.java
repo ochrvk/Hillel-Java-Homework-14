@@ -1,4 +1,4 @@
-package hw14;
+package chrvk.javaelementary.hw14;
 
 public class Calc {
     private int a;
