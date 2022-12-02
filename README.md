@@ -1,4 +1,4 @@
-# Hillel-Java-Homework-14
+# Homework 14
 
 ## **Task 1: 
 Написать класс в котором есть 4 метода: +-/*  
